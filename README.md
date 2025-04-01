@@ -8,8 +8,9 @@ Conclusion:
 
 # Database & Tools
 Postgre SQL
-PgAdmin4
-Schema
 
+PgAdmin4
+
+Schema
 
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/6179a6a3-a196-4cd8-abc9-5a56108223c3" />
